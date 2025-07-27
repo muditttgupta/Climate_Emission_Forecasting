@@ -28,6 +28,7 @@ This project was developed during a hackathon challenge under **UN Sustainable D
 ---
 
 ## 🔄 Project Structure
+```
 
 climate_emission_forecasting/
 │
@@ -52,7 +53,7 @@ climate_emission_forecasting/
 │
 ├── requirements.txt
 └── README.md
-
+```
 ## 📁 Input Format
 
 Your CSV must contain the following columns:
